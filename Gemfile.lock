@@ -249,6 +249,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  jekyll-seo-tag
   just-the-docs
 
 BUNDLED WITH

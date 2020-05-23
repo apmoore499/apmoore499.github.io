@@ -12,6 +12,7 @@ source 'https://rubygems.org'
 # see : https://pages.github.com/versions/
 gem 'github-pages'
 gem "just-the-docs"
+gem "jekyll-seo-tag"
 # comment out all other gems
 # gem 'jekyll'
 # gem 'jekyll-feed'
