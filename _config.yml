@@ -1,2 +1,4 @@
 
 theme: just-the-docs
+
+gems: jekyll-seo-tag
