@@ -1,5 +1,6 @@
 
 theme: just-the-docs
 
-'plugins_dir': jekyll-seo-tag
 
+plugins:
+- jekyll-seo-tag
