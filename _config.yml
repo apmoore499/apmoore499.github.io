@@ -1,4 +1,4 @@
 
 theme: just-the-docs
 
-gems: jekyll-seo-tag
+'plugins_dir': jekyll-seo-tag
