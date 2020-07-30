@@ -7,6 +7,6 @@ has_children: true
 
 
 
-##### circuit SNP
+##### circuit SNPs
 
-circuitSNP (Shanku et al., 2018) predicts the open or closed state of chromatin using the locations of SNPs...
+Below are listed instructions for running circuitSNPs jupyter notebook

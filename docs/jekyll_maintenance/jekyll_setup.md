@@ -2,6 +2,7 @@
 layout: default
 title: Web Development
 nav_order: 4
+has_children: true
 ---
 
 ## Web Dev notes for Jekyll / just-the-docs
